@@ -13,3 +13,9 @@
 	fixed the errors that I had in my CSS
 	changed 700px to 768px and 400px to 480px
 
+002.011:
+	
+	used css code to make the viewport look better when the window is made smaller/for those who are using tablets
+	
+	
+
