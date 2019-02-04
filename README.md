@@ -1,7 +1,6 @@
 # Code-A-Responsive-Design-Website-001
   https://mr0786280.github.io/Code-A-Responsive-Design-Website-001/
-  
- 
+
  
 002.007:
 	- added style.css and an images folder
