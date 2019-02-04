@@ -4,6 +4,6 @@
  
  
 002.007:
-	added style.css and an images folder
-	overwrote the index.html folder
-	added more code to the style.css to match with the code as shown in the video
+	- added style.css and an images folder
+	- overwrote the index.html folder
+	- added more code to the style.css to match with the code as shown in the video
