@@ -11,4 +11,5 @@
 
 	learned more about fixed and fluid layouts and how they affect the viewport
 	fixed the errors that I had in my CSS
+	changed 700px to 768px and 400px to 480px
 
