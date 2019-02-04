@@ -1,6 +1,5 @@
 # Code-A-Responsive-Design-Website-001
   https://mr0786280.github.io/Code-A-Responsive-Design-Website-001/
-  
 
 002.007:
 
@@ -12,3 +11,4 @@
 
 	learned more about fixed and fluid layouts and how they affect the viewport
 	fixed the errors that I had in my CSS
+
