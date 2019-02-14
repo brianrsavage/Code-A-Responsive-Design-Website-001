@@ -17,5 +17,10 @@
 	
 	used css code to make the viewport look better when the window is made smaller/for those who are using tablets
 	
+002.013 | Mobile Styles
+
+	added code to adjust the viewport on a mobile phone
+	will be adding branches as I go along for organization and good habit
+	
 	
 
