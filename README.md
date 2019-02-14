@@ -22,5 +22,12 @@
 	added code to adjust the viewport on a mobile phone
 	will be adding branches as I go along for organization and good habit
 	
+002.015 | Making a Mobile Drop-Down Menu
+
+	added burger.png to style.css
+	added menu.js 
+	added the drop-down menu function
+	
+	
 	
 
