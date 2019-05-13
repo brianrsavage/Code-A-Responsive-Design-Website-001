@@ -28,6 +28,12 @@
 	added menu.js 
 	added the drop-down menu function
 	
+002.017 | Responsive Images & Polyfills 
+
+	added the picture tag and the measurements for smaller viewports
+	added two new images: banner-M and banner-S
+	
+	
 	
 	
 
